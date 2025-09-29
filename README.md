@@ -1,8 +1,12 @@
-# AudioMass
+# Modulisme Audio Editor
 Free full-featured web-based audio &amp; waveform editing tool
 
 
-Live: [https://audiomass.co](https://audiomass.co)
+Live: [https://modulisme.com/audio](https://modulisme.com/audio)
+
+---
+
+### This project is a work of the fabulous project from [@pkalogiros](https://github.com/pkalogiros) : [AudioMass](https://github.com/pkalogiros/AudioMass)
 
 ---
 
